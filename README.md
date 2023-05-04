@@ -13,7 +13,7 @@ Online image attack simulaiton video can be found here -> https://www.youtube.co
 
 Please follow the tutorial in Wiki to configure the [simulation environment](https://github.com/haotiangu/Robost_Vision_Based_Object_Tracking_System_Demo/wiki/The-General-Configuring-Tutorial-of-The-Simulation-Environment).
 
-
+The yolo version in use is 5.6.1.
 
 
 
