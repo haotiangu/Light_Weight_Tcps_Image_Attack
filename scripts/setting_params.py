@@ -20,7 +20,7 @@ SETTING.update({'lr_img_gen':0.001, 'lr_img_discrim':0.0012, 'lr_sys_id':0.0032,
 
 # Dimension of the data and the NN networks
 #SETTING.update({'image_size':(448,448), 'encoder_image_size':(224,224)})
-SETTING.update({'image_size':(448,448), 'encoder_image_size':(32,32)})
+SETTING.update({'image_size':(448,448), 'encoder_image_size':(64,64)})
 SETTING.update({'N_ACT_DIM': 4, 'ACTION_LIM':1.0, 'N_STATE_DIM': 32})
 
 # Ornstein-Uhlenbeck
